@@ -2,6 +2,14 @@
 
 Wine e-commerce solution offers an intuitive GUI for users to browse, make reservations, customize purchases, and manage their wine collection. With both an operational database and an analytical database, our application provides insights into user behavior, marketing events, revenue flows, and wine sales. It caters to wine enthusiasts and wineries, enhancing wine-related experiences and enabling informed decision-making.
 
+![image](https://github.com/ManishaLagisetty/WINE-E-COMMERCE-APPLICATION/assets/147951099/606f5375-161e-4abf-9199-7e6355a80011)
+
+![image](https://github.com/ManishaLagisetty/WINE-E-COMMERCE-APPLICATION/assets/147951099/964c1ee0-7e0b-4b0f-9f3b-7ae55096c01b)
+
+![Untitled](https://github.com/ManishaLagisetty/WINE-E-COMMERCE-APPLICATION/assets/147951099/de317467-a228-4383-85c2-a16ccab3bfc1)
+
+![Untitled-2](https://github.com/ManishaLagisetty/WINE-E-COMMERCE-APPLICATION/assets/147951099/b944c135-c6eb-446d-8722-04dca1314d8b)
+
 ### Application Features and Functionalities
 - User Registration and Authentication: Secure account creation and login. 
 - Product Catalog: Detailed descriptions, prices, and ratings for wines. 
